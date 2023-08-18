@@ -1,0 +1,16 @@
+/* .container-fluid{
+    color: white;
+    background-color: black;
+} */
+.navbar ul li a:hover{
+    background-color: blue;
+   
+}
+.navbar ul li{
+    font-size: 3rem;
+}
+
+.container{
+    display: block;
+    overflow: none;
+}
