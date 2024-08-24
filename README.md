@@ -35,3 +35,13 @@ To view the project locally:
     cd room-rental-website
     ```
 3. Open the index.html file in your web browser to view the website.
+
+## Project Structure
+- index.html: The main HTML file that contains the structure of the website.
+- style.css: Custom CSS file for additional styling.
+- assets/: Directory containing images used in the project.
+- images/: Contains images used for the properties, logos, and other visual elements.
+
+## Dependencies
+- Bootstrap 5.3.1
+- Font Awesome 6.4.0
