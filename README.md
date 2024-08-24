@@ -29,3 +29,9 @@ To view the project locally:
    ```bash
    git clone https://github.com/yourusername/room-rental-website.git
     ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd room-rental-website
+    ```
+3. Open the index.html file in your web browser to view the website.
