@@ -40,8 +40,14 @@ To view the project locally:
 - index.html: The main HTML file that contains the structure of the website.
 - style.css: Custom CSS file for additional styling.
 - assets/: Directory containing images used in the project.
-- images/: Contains images used for the properties, logos, and other visual elements.
+ - images/: Contains images used for the properties, logos, and other visual elements.
 
 ## Dependencies
 - Bootstrap 5.3.1
 - Font Awesome 6.4.0
+
+## Deployment
+You can deploy this website on any static site hosting platform like GitHub Pages, Netlify, or Vercel.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
