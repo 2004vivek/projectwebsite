@@ -27,12 +27,12 @@ To view the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/room-rental-website.git
+   git clone https://github.com/yourusername/projectwebsite.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd room-rental-website
+    cd projectwebsite
     ```
 3. Open the index.html file in your web browser to view the website.
 
@@ -40,7 +40,7 @@ To view the project locally:
 - index.html: The main HTML file that contains the structure of the website.
 - style.css: Custom CSS file for additional styling.
 - assets/: Directory containing images used in the project.
- - images/: Contains images used for the properties, logos, and other visual elements.
+    - images/: Contains images used for the properties, logos, and other visual elements.
 
 ## Dependencies
 - Bootstrap 5.3.1
